@@ -1,0 +1,2 @@
+# asztali-lejatszo
+SorozatBarát
